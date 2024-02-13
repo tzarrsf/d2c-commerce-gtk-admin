@@ -28,7 +28,7 @@ The documentation for the majority of the data and code in this collection can b
 
 ### Organization
 
-This repository contains two versions of easily accessible code which can be used by Administrators or Developers in a tiral org to support self-enablement, skill-building and ultimately pursuit of Accredited Professional credentials.
+This repository contains two versions of easily accessible code which can be used by Administrators or Developers in a trial org to support self-enablement, skill-building and ultimately pursuit of Accredited Professional credentials. The older integration model code based on Aura and early LWR storefronts is located in the "code" folder at the root level. The newer integration model approach which became default in Spring '24 can be found in the codev2 folder.
 
 ### Applicability
 
