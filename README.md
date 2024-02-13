@@ -2,7 +2,7 @@
 
 ### Preamble
 
-The data and code samples in this repository are not organized in a traditional 'developer package' deployable from an IDE such as Visual Studio Code and that is very much "by design." SFDX packages can be unwieldly for Admins who just want to stand up an environment, place orders and test out new features without having to really dive into coding tasks, tooling and its setup which is a topic entirely of its own.
+The data and code samples in this repository are not organized in a traditional "developer package" deployable from an IDE such as Visual Studio Code and that is very much 'by design.' SFDX packages can be unwieldly for Admins who just want to stand up an environment, place orders and test out new features without having to really dive into coding tasks, tooling and its setup which is a topic entirely of its own.
 
 ## ⚠️ Disclaimers
 
