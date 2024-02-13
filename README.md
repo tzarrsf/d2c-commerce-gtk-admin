@@ -6,9 +6,9 @@ The data and code samples in this repository are not organized in a traditional 
 
 ## ⚠️ Disclaimers
 
-1. This example is provided as-is. It's not officially supported by Salesforce or covered by SLAs.
-2. API documentation is not provided with the examples. Please refer to the official documentation.
-3. The documentation for the majority of the data and code in this collection can be found in these URLS:
+This example is provided as-is. It's not officially supported by Salesforce or covered by SLAs.
+API documentation is not provided with the examples. Please refer to the official documentation.
+The documentation for the majority of the data and code in this collection can be found in these URLS:
 
 * [Integration Architecture for B2B and D2C Stores (LWR)](https://developer.salesforce.com/docs/atlas.en-us.b2b_b2c_comm_dev.meta/b2b_b2c_comm_dev/b2b_b2c_comm_integration_architecture.htm)
 * [Native Shipping Service](https://help.salesforce.com/s/articleView?id=sf.comm_set_up_native_shipping.htm&type=5)
